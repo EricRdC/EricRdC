@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m pursuing an Electrical Engineering degree, and currently working as an IT Intern<br>⚡My favorite language is Python, and is what I use the most, while also having experience with C/C++<br>🌱 I’m currently learning Data Engineer and its tools / frameworks to increase knowledge and start my path to become a Data Engineer / Data Scientist <br>💬 Feel free to send me a message, connect with me on LinkedIn!
+🔭 B.Sc Electrical Engineer and Data Engineer<br>⚡My favorite language is Python, and is what I use the most, while also having experience with C/C++<br>💬 Feel free to send me a message, connect with me on LinkedIn!
 
 
 ## 🌐 Socials:
